@@ -1,0 +1,121 @@
+{
+  "contacts" : [
+    {
+      "id": 1,
+      "first_name": "Mohamed",
+      "last_name": "Aalami",
+      "gender": "men",
+      "job": "Systems Architect",
+      "email": "m.alami@gmail.com",
+      "phone": "0628294375"
+    },
+    {
+      "id": 2,
+      "first_name": "Sara",
+      "last_name": "El Amrani",
+      "gender": "women",
+      "job": "Sales Engineer",
+      "email": "s.elamrani@gmail.com",
+      "phone": "0661568712"
+    },
+    {
+      "id": 3,
+      "first_name": "Rachid",
+      "last_name": "Mobtassim",
+      "gender": "men",
+      "job": "Mobile Developer",
+      "email": "r.mobtassim@gmail.com",
+      "phone": "0618312546"
+    },
+    {
+      "id": 4,
+      "first_name": "Majida",
+      "last_name": "Khalil",
+      "gender": "women",
+      "job": "Devops Engineer",
+      "email": "m.khalil@gmail.com",
+      "phone": "0618654532"
+    },
+    {
+      "id": 5,
+      "first_name": "Nabil",
+      "last_name": "Hachimi",
+      "gender": "men",
+      "job": "Data Engineer",
+      "email": "n.hachimi@gmail.com",
+      "phone": "0617656538"
+    },
+    {
+      "id": 6,
+      "first_name": "Salma",
+      "last_name": "Semlali",
+      "gender": "women",
+      "job": "Project Manager",
+      "email": "s.semlali@gmail.com",
+      "phone": "0678654459"
+    },
+    {
+      "id": 7,
+      "first_name": "Youssef",
+      "last_name": "Bouzidi",
+      "gender": "men",
+      "job": "Software Engineer",
+      "email": "y.bouzidi@gmail.com",
+      "phone": "0628654321"
+    },
+    {
+      "id": 8,
+      "first_name": "Fatima",
+      "last_name": "Zahra",
+      "gender": "women",
+      "job": "Data Scientist",
+      "email": "f.zahra@gmail.com",
+      "phone": "0658654321"
+    },
+    {
+      "id": 9,
+      "first_name": "Karim",
+      "last_name": "Bouzidi",
+      "gender": "men",
+      "job": "Software Engineer",
+      "email": "k.bouzidi@gmail.com",
+      "phone": "0628654321"
+    },
+    {
+      "id": 10,
+      "first_name": "Houda",
+      "last_name": "El Amrani",
+      "gender": "women",
+      "job": "Product Manager",
+      "email": "h.elamrani@gmail.com",
+      "phone": "0661568712"
+    },
+    {
+      "id": 11,
+      "first_name": "Ahmed",
+      "last_name": "Bouzidi",
+      "gender": "men",
+      "job": "Software Engineer",
+      "email": "a.bouzidi@gmail.com",
+      "phone": "0628654321"
+    },
+    {
+      "id": 12,
+      "first_name": "Nadia",
+      "last_name": "Khalil",
+      "gender": "women",
+      "job": "Devops Engineer",
+      "email": "n.khalil@gmail.com",
+      "phone": "0618654532"
+    },
+    {
+      "id": 13,
+      "first_name": "Omar",
+      "last_name": "Hachimi",
+      "gender": "men",
+      "job": "Data Engineer",
+      "email": "o.hachimi@gmail.com",
+      "phone": "0617656538"
+    }
+  ]
+}
